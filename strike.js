@@ -93,7 +93,6 @@ const net = require("net");
      "https://www.twitter.com/",
      "https://www.youtube.com/",
      "https://www.linkedin.com/"
-     "https://www.youtube.com/"
      "https://www.wikipedia.com/"
  ];
  const defaultCiphers = crypto.constants.defaultCoreCipherList.split(":");
