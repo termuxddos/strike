@@ -92,8 +92,7 @@ const net = require("net");
      "https://www.facebook.com/",
      "https://www.twitter.com/",
      "https://www.youtube.com/",
-     "https://www.linkedin.com/"
-     "https://www.wikipedia.com/"
+     "https://www.linkedin.com/",
  ];
  const defaultCiphers = crypto.constants.defaultCoreCipherList.split(":");
  const ciphers1 = "GREASE:" + [
